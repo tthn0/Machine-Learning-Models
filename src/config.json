@@ -1,0 +1,6 @@
+{
+    "regression_method": "gradient",
+    "regression_type": "linear",
+    "input_file_path": "data/gradient/linear/trivariate.csv",
+    "parameter_precision": 4
+}
